@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rain</title>
+    <link href='https://fonts.googleapis.com/css?family=Courier Prime' rel='stylesheet'>
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body class="back-row-toggle splat-toggle">
+    <div class="rain front-row"></div>
+    <div class="rain back-row"></div>
+    <div id="container">
+        <div id="typed-strings">
+            <p>Aku gak tau gimana kisah di masa lalumu. ^2000</p>
+            <p>Entah juga saat ini kamu masih mengharapkan seseorang itu atau tidak. ^2000</p>
+            <p>Ini sekadar rasa curigaku sendiri saja. ^1000</p>
+            <p>Muncul ketika aku memikirkan tentangmu atau sekedar aku tatap lagi rupamu dalam foto, tersadar akan kemungkinan ada sosok yang lebih kamu tuju. ^3500</p>
+            <p>Sederhananya </p>
+            <p>aku memang tertarik dengan kepribadianmu sebagai alasan aku ingin mengenal jauh tentang kamu. ^2000</p>
+            <p>Sebelum aku yakinkan. </p>
+        </div>
+        <span id="typed"></span>
+    </div>
+</body>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script src="app.js"></script>
+
+</html>
