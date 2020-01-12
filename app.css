@@ -172,7 +172,7 @@ html {
     padding: 2%;
     box-sizing: border-box;
     width: 80%;
-    height: 60%;
+    height: 80%;
     margin: auto;
     margin-top: 2%;
   }
@@ -180,7 +180,7 @@ html {
   span#typed {
     line-height: 1.2;
     font-family: 'Courier Prime';
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
     color: #333333;
   }
