@@ -13,25 +13,19 @@ body,
 
 .ag-products {
     background-color: #dbf0f5;
-
     overflow: hidden;
-
     position: relative;
 }
 
 .ag-flower {
     -webkit-animation-name: an-grow;
     animation-name: an-grow;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 0s;
     animation-delay: 0s;
-
     -webkit-animation-duration: 4s;
     animation-duration: 4s;
-
     z-index: 81;
     position: absolute;
     top: 16px;
@@ -41,7 +35,6 @@ body,
     height: 800px;
     width: 8px;
     background: #b4d28c;
-
     z-index: 5;
     position: absolute;
 }
@@ -52,29 +45,20 @@ body,
     height: 48px;
     width: 48px;
     background: #a3c872;
-
     box-shadow: 0 0 0 3px #a1c76f inset;
-
     border-radius: 0 32px;
-
     -webkit-transform: rotateY(140deg);
     transform: rotateY(140deg);
-
     -webkit-transform-origin: right;
     transform-origin: right;
-
     -webkit-animation-name: an-turn-left;
     animation-name: an-turn-left;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 4s;
     animation-delay: 4s;
-
     -webkit-animation-duration: 4s;
     animation-duration: 4s;
-
     z-index: 0;
     position: absolute;
     top: 80px;
@@ -87,17 +71,12 @@ body,
     height: 48px;
     width: 48px;
     background: #a8cb7a;
-
     box-shadow: 0 0 0 3px #a1c76f inset;
-
     border-radius: 32px 0;
-
     -webkit-transform: rotateY(-140deg);
     transform: rotateY(-140deg);
-
     -webkit-transform-origin: left;
     transform-origin: left;
-
     z-index: 0;
     position: absolute;
     top: 16px;
@@ -110,16 +89,11 @@ body,
     margin-top: 336px;
     border: 16px solid #f8c475;
     background-color: #f3f875;
-
     opacity: 0;
-
     box-shadow: 0 0 0 3px #f7bc62, 0 0 0 3px #f5f988 inset;
-
     border-radius: 320px;
-
     -webkit-animation-delay: 0s;
     animation-delay: 0s;
-
     left: 5%;
 }
 
@@ -131,13 +105,10 @@ body,
 .ag-flower-1 span:before {
     -webkit-animation-name: an-turn-right;
     animation-name: an-turn-right;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 0s;
     animation-delay: 0s;
-
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
 }
@@ -145,13 +116,10 @@ body,
 .ag-flower-1 span:after {
     -webkit-animation-name: an-turn-left;
     animation-name: an-turn-left;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 0s;
     animation-delay: 0s;
-
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
@@ -162,16 +130,11 @@ body,
     margin-top: 192px;
     border: 16px solid #75bff8;
     background-color: #a6d6fa;
-
     opacity: 0;
-
     box-shadow: 0 0 0 3px #62b6f7, 0 0 0 3px #b9dffb inset;
-
     border-radius: 480px;
-
     -webkit-animation-delay: .3s;
     animation-delay: .3s;
-
     left: 25%;
 }
 
@@ -183,13 +146,10 @@ body,
 .ag-flower-2 span:before {
     -webkit-animation-name: an-turn-right;
     animation-name: an-turn-right;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: .3s;
     animation-delay: .3s;
-
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
 }
@@ -197,13 +157,10 @@ body,
 .ag-flower-2 span:after {
     -webkit-animation-name: an-turn-left;
     animation-name: an-turn-left;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
-
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
@@ -214,16 +171,11 @@ body,
     margin-top: 304px;
     border: 11px solid #ff89b3;
     background-color: #d9abff;
-
     opacity: 0;
-
     box-shadow: 0 0 0 3px #ff75a6, 0 0 0 3px #e2bfff inset;
-
     border-radius: 320px;
-
     -webkit-animation-delay: 1.5s;
     animation-delay: 1.5s;
-
     right: 25%;
 }
 
@@ -235,13 +187,10 @@ body,
 .ag-flower-3 span:before {
     -webkit-animation-name: an-turn-right;
     animation-name: an-turn-right;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 1.5s;
     animation-delay: 1.5s;
-
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
 }
@@ -249,13 +198,10 @@ body,
 .ag-flower-3 span:after {
     -webkit-animation-name: an-turn-left;
     animation-name: an-turn-left;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 2s;
     animation-delay: 2s;
-
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
@@ -266,16 +212,11 @@ body,
     margin-top: 144px;
     border: 19px solid #f8c475;
     background-color: #f87575;
-
     opacity: 0;
-
     box-shadow: 0 0 0 3px #f7bc62, 0 0 0 3px #f98888 inset;
-
     border-radius: 400px;
-
     -webkit-animation-delay: 1.8s;
     animation-delay: 1.8s;
-
     right: 5%;
 }
 
@@ -287,13 +228,10 @@ body,
 .ag-flower-4 span:before {
     -webkit-animation-name: an-turn-right;
     animation-name: an-turn-right;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 1.8s;
     animation-delay: 1.8s;
-
     -webkit-animation-duration: 3s;
     animation-duration: 3s;
 }
@@ -301,13 +239,10 @@ body,
 .ag-flower-4 span:after {
     -webkit-animation-name: an-turn-left;
     animation-name: an-turn-left;
-
     -webkit-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-
     -webkit-animation-delay: 2.4s;
     animation-delay: 2.4s;
-
     -webkit-animation-duration: 2s;
     animation-duration: 2s;
 }
@@ -316,7 +251,6 @@ body,
     from {
         top: 240px;
     }
-
     to {
         top: 16px;
         opacity: 1;
@@ -327,7 +261,6 @@ body,
     from {
         top: 240px;
     }
-
     to {
         top: 16px;
         opacity: 1;
@@ -339,7 +272,6 @@ body,
         -webkit-transform: rotateY(-140deg);
         transform: rotateY(-140deg);
     }
-
     to {
         -webkit-transform: rotateY(0);
         transform: rotateY(0);
@@ -351,7 +283,6 @@ body,
         -webkit-transform: rotateY(-140deg);
         transform: rotateY(-140deg);
     }
-
     to {
         -webkit-transform: rotateY(0);
         transform: rotateY(0);
@@ -363,7 +294,6 @@ body,
         -webkit-transform: rotateY(140deg);
         transform: rotateY(140deg);
     }
-
     to {
         -webkit-transform: rotateY(0);
         transform: rotateY(0);
@@ -375,7 +305,6 @@ body,
         -webkit-transform: rotateY(140deg);
         transform: rotateY(140deg);
     }
-
     to {
         -webkit-transform: rotateY(0);
         transform: rotateY(0);
@@ -386,7 +315,6 @@ body,
     .ag-format-container {
         width: 96%;
     }
-
 }
 
 @media only screen and (max-width: 639px) {}
@@ -397,14 +325,12 @@ body,
     .ag-format-container {
         width: 750px;
     }
-
 }
 
 @media (min-width: 980px) and (max-width: 1161px) {
     .ag-format-container {
         width: 960px;
     }
-
 }
 
 #overlay {
@@ -417,12 +343,12 @@ body,
     right: 0;
     bottom: 0;
     background-color: aliceblue;
-    opacity: 0.3;
+    opacity: 0.5;
     z-index: 99;
     cursor: pointer;
 }
 
-#typed{
+#typed {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -431,6 +357,14 @@ body,
     font-weight: 700;
     color: #333333;
     line-height: 1.2;
-    transform: translate(-50%,-50%);
-    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.photo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
 }
